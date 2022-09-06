@@ -1,6 +1,6 @@
-let plus = document.getElementById("increment");
-let counter = document.getElementById("counter");
-let minus = document.getElementById("decrement");
+const plus = document.getElementById("increment");
+const counter = document.getElementById("counter");
+const minus = document.getElementById("decrement");
 let count = 0;
 
 currentCount();
